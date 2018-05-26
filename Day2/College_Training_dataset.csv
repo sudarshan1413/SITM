@@ -1,0 +1,301 @@
+Student No,Gender,Percent_SSC,Board_SSC,Percent_HSC,Board_HSC,Stream_HSC,Percent_Degree,Course_Degree,Placement
+1,M,62,Others,88,Others,Commerce,52,Science,Placed
+2,M,76.33,ICSE,75.33,Others,Science,75.48,Computer Applications,Placed
+3,M,72,Others,78,Others,Commerce,66.63,Engineering,Placed
+4,M,60,CBSE,63,CBSE,Arts,58,Management,Placed
+5,M,61,CBSE,55,ISC,Science,54,Engineering,Placed
+6,,55,ICSE,64,CBSE,Commerce,50,Commerce,Placed
+7,F,70,Others,54,Others,Science,65,Others,Placed
+8,M,68,ICSE,77,ISC,Commerce,72.5,Management,Placed
+9,M,82.8,CBSE,70.6,CBSE,Commerce,69.3,Commerce,Placed
+10,F,59,CBSE,74,CBSE,Arts,59,Management,Placed
+11,F,79.6,Others,87,ISC,Commerce,72.35,,Not Placed
+12,M,58,Others,59,Others,Commerce,48,Commerce,Placed
+13,M,60,Others,52.8,Others,,73.25,Computer Applications,Placed
+14,M,66,CBSE,66.33,CBSE,Commerce,66.72,Commerce,Placed
+15,M,83,Others,51,Others,Science,51,Engineering,Placed
+16,F,49,Others,52.2,Others,Commerce,85,Commerce,Not Placed
+17,M,68,Others,80,Others,Commerce,70,Commerce,Placed
+18,M,37.33,Others,47.4,Others,Commerce,35.5,Commerce,Placed
+19,M,79,CBSE,59,CBSE,Science,60,Science,Placed
+20,M,66,Others,46,Others,Commerce,65,Management,Not Placed
+21,M,68.4,ICSE,85.6,ISC,Commerce,72,Commerce,Placed
+22,M,70,CBSE,76,CBSE,Commerce,68,Management,Placed
+23,M,59,CBSE,75,CBSE,Commerce,65,Management,Placed
+24,M,63,ICSE,78,ISC,Commerce,65,Management,Placed
+25,M,50,ICSE,53,CBSE,Commerce,54,Management,Placed
+26,M,69,Others,75,CBSE,Commerce,49,Commerce,Placed
+27,M,52,Others,54,Others,Commerce,58,Management,Placed
+28,M,49,Others,55,Others,Science,57,Science,Placed
+29,M,64.6,CBSE,63.4,CBSE,Commerce,76.3,Commerce,Placed
+30,F,50,CBSE,60,Others,Science,71,Management,Placed
+31,F,74,ICSE,84,ISC,Commerce,53,Commerce,Placed
+32,M,58,CBSE,,Others,Science,67.75,Engineering,Placed
+33,M,67,CBSE,50,CBSE,Commerce,52,Commerce,Placed
+34,F,75,Others,77,Others,,73,Management,Placed
+35,,60,CBSE,72,CBSE,Commerce,65,Management,Placed
+36,M,55,CBSE,61.2,CBSE,Commerce,59.6,Management,Placed
+37,M,78,Others,52,ISC,Science,66,Management,Placed
+38,M,50.08,Others,48.5,Others,Commerce,51.61,Commerce,Placed
+39,M,56,Others,54,Others,Science,59,Management,Placed
+40,F,60,CBSE,75,CBSE,Commerce,68,Commerce,Not Placed
+41,F,68,CBSE,74,CBSE,Commerce,70,Management,Placed
+42,F,40,CBSE,40,Others,Commerce,51,Management,Not Placed
+43,M,77.12,Others,85,Others,Commerce,56.77,Management,Not Placed
+44,M,52,Others,62,Others,Arts,66,Management,Placed
+45,,54,Others,60,Others,Commerce,60,,Placed
+46,M,52,CBSE,51,Others,Science,62,Management,Placed
+47,F,76,Others,73,Others,Commerce,83,Commerce,Placed
+48,F,64.8,Others,52.8,Others,Science,68.23,Engineering,Placed
+49,F,74.4,Others,52,Others,Science,58.74,Science,Placed
+50,,74.5,CBSE,58,CBSE,Science,58,Management,Placed
+51,M,73.5,Others,94.7,Others,Science,76.86,Engineering,Placed
+52,F,57.58,Others,59.6,CBSE,Commerce,50.2,Commerce,Placed
+53,F,68,CBSE,,CBSE,Commerce,40,Commerce,Placed
+54,M,69,Others,51,Others,Science,59,Management,Placed
+55,M,66,Others,76,Others,Commerce,60,Management,Placed
+56,M,60.8,Others,71.83,Others,Commerce,62.41,Commerce,Placed
+57,M,58,Others,62,Others,Commerce,62,Management,Placed
+58,M,73.76,Others,73.5,Others,Commerce,63.5,Management,Placed
+59,M,70,CBSE,75,CBSE,Commerce,60,Commerce,Not Placed
+60,F,59,CBSE,68.5,CBSE,Commerce,69,Management,Placed
+61,F,75,CBSE,58,CBSE,,69,Science,Placed
+62,F,56,ICSE,78,ISC,Commerce,62.4,Management,Placed
+63,,52,CBSE,57,CBSE,Commerce,47,Management,Placed
+64,M,53,Others,55,Others,Commerce,42,Commerce,Not Placed
+65,F,84,Others,60,Others,Science,79,Management,Placed
+66,M,67,Others,54,Others,Science,54,Arts,Placed
+67,F,64,CBSE,75,CBSE,Commerce,70,Commerce,Placed
+68,M,54,CBSE,47,CBSE,Commerce,59,Management,Not Placed
+69,M,82.6,CBSE,64,CBSE,Science,56,Management,Placed
+70,F,76,CBSE,,CBSE,Science,59.6,Engineering,Placed
+71,,70,Others,50,Others,Science,60,Management,Placed
+72,M,78,Others,63,Others,Science,58,Engineering,Placed
+73,F,75,ICSE,74,Others,Commerce,78,Commerce,Placed
+74,F,82,Others,68.16,Others,Commerce,71,Management,Placed
+75,M,52,Others,42,CBSE,Science,69,Others,Not Placed
+76,M,84,Others,84,Others,Commerce,64,Commerce,Placed
+77,F,74,Others,68,Others,Commerce,79,Management,Placed
+78,F,84,CBSE,72,CBSE,Science,78,Science,Placed
+79,F,78.89,Others,79.98,Others,Science,71.6,Management,Not Placed
+80,M,55,ICSE,52,ISC,Commerce,51,Management,Placed
+81,M,58,Others,54,Others,Commerce,64,Management,Placed
+82,F,53,Others,40,Others,Arts,54,Arts,Not Placed
+83,F,72.2,CBSE,70.2,CBSE,Science,64.4,Management,Placed
+84,M,56.4,Others,66.83,Others,Commerce,48.42,Commerce,Placed
+85,M,59.4,CBSE,66.12,CBSE,Commerce,58.2,Management,Placed
+86,F,46,CBSE,62,CBSE,Commerce,58,Management,Placed
+87,F,65,CBSE,78,Others,Commerce,75,Commerce,Placed
+88,M,75,Others,65,Others,Science,59,Computer Applications,Not Placed
+89,F,43.89,Others,48.83,Others,Commerce,55,Commerce,Not Placed
+90,M,77,Others,65,Others,,70,Science,Placed
+91,F,71,ICSE,52,Others,Science,65,Management,Placed
+92,M,55.4,CBSE,61.6,Others,Science,59,Management,Placed
+93,M,58,ICSE,59,ISC,Commerce,56,Management,Placed
+94,M,40.5,Others,60.14,Others,Commerce,52.37,Commerce,Not Placed
+95,M,68,Others,68,Others,Science,70,Engineering,Placed
+96,M,55,Others,,Others,Commerce,55.4,Commerce,Placed
+97,M,63,ICSE,73,ISC,Commerce,72,Commerce,Placed
+98,M,58,ICSE,78,ISC,Commerce,63,Commerce,Not Placed
+99,M,69,CBSE,54,Others,Science,64,Management,Placed
+100,F,50,CBSE,69,CBSE,Commerce,42,Arts,Not Placed
+101,M,44.6,CBSE,60.58,Others,Science,68.11,,Placed
+102,M,69,CBSE,,CBSE,Science,68,Management,Placed
+103,,77.44,Others,77.83,Others,Commerce,71,Management,Placed
+104,M,81.2,CBSE,70.4,CBSE,Commerce,62.89,Commerce,Placed
+105,F,83.5,Others,59.2,Others,Science,63.4,Science,Placed
+106,M,53.44,Others,51.66,Others,Commerce,57,Commerce,Placed
+107,M,79,CBSE,65,CBSE,Commerce,65,Management,Placed
+108,M,50,ICSE,,Others,Commerce,50,Commerce,Placed
+109,M,52.5,Others,53.4,Others,Commerce,55.21,Management,Not Placed
+110,M,47.5,Others,59,Others,Arts,54.5,Arts,Placed
+111,M,73.4,Others,75,Others,Science,64.38,Management,Placed
+112,F,44,CBSE,51,CBSE,Commerce,45,Commerce,Not Placed
+113,F,82.3,Others,73,Others,Science,72.3,Science,Placed
+114,M,66,Others,78,Others,Commerce,70,Management,Placed
+115,F,68,Others,79,Others,Science,64,Engineering,Placed
+116,M,77,Others,68,Others,Commerce,73,Commerce,Placed
+117,M,59,Others,50,Others,Science,59,Management,Placed
+118,M,65,CBSE,57,CBSE,Commerce,57,Commerce,Placed
+119,M,80,Others,69,Others,Science,62,Management,Placed
+120,M,77.92,Others,75.5,Others,Commerce,63,Commerce,Placed
+121,F,77.7,CBSE,50,CBSE,Commerce,78.7,Computer Applications,Placed
+122,M,70,ICSE,68,ISC,Science,62,Engineering,Placed
+123,M,73,Others,48,Others,Science,56,Commerce,Placed
+124,M,44,Others,72,Others,Commerce,59,Management,Placed
+125,M,70.08,Others,65.83,Others,Commerce,74.53,Management,Placed
+126,M,79,Others,53,Others,Science,56,Engineering,Placed
+127,M,56,CBSE,47,CBSE,Science,61.17,Management,Placed
+128,F,80.32,Others,76.83,Others,Commerce,76.3,Management,Not Placed
+129,M,55,Others,74.67,Others,Arts,59,Computer Applications,Placed
+130,M,53.43,Others,64.93,Others,Commerce,53,Management,Placed
+131,M,72,Others,65.29,Others,Commerce,67,Management,Placed
+132,M,81.86,Others,62,Others,Science,76,Management,Placed
+133,F,73,Others,74,Others,Science,56,Management,Placed
+134,M,59.6,CBSE,80.83,Others,Commerce,67.72,Commerce,Placed
+135,M,78,Others,78,Others,Science,51,Science,Placed
+136,M,48.6,CBSE,,CBSE,Commerce,66.2,Management,Placed
+137,F,64,ICSE,70,Others,Commerce,83.5,Commerce,Placed
+138,F,61.5,Others,65.4,CBSE,Arts,67.93,Management,Placed
+139,,60.4,ICSE,51.8,ISC,Commerce,74.8,Commerce,Placed
+140,M,59,Others,77,Others,Science,59,Engineering,Placed
+141,M,81,Others,87.9,Others,Science,58.5,Engineering,Placed
+142,F,77,CBSE,70,CBSE,Science,72,Computer Applications,Placed
+143,F,64,Others,57,Others,Commerce,65,Management,Placed
+144,F,61,Others,49,Others,Science,63,Computer Applications,Not Placed
+145,F,52,Others,59,Others,Arts,38,Arts,Placed
+146,M,78.7,Others,55,Others,Science,63,Management,Placed
+147,M,68,CBSE,75,CBSE,Commerce,80,Management,Placed
+148,M,81,Others,76,Others,Science,64,Computer Applications,Placed
+149,M,55,Others,52,Others,Commerce,54.2,Management,Not Placed
+150,M,59,Others,58,Others,Commerce,59,Management,Placed
+151,M,58,CBSE,75,Others,Science,68,Engineering,Placed
+152,M,65,CBSE,58,Others,Science,66,Science,Placed
+153,F,80.84,Others,86.83,Others,Commerce,75.2,Management,Placed
+154,M,54,Others,55,Others,Commerce,58,Management,Placed
+155,M,64.6,ICSE,54,CBSE,Science,64,Others,Placed
+156,M,46,Others,41,Others,Commerce,43,Commerce,Placed
+157,F,61,CBSE,54,CBSE,Commerce,69,Management,Placed
+158,F,81,Others,72,Others,Science,65,Computer Applications,Placed
+159,F,82,Others,87,Others,Commerce,80,Commerce,Placed
+160,F,78.7,Others,71,Others,Commerce,49,Commerce,Placed
+161,M,57,ICSE,62,ISC,Commerce,52.8,Commerce,Placed
+162,M,54.16,ICSE,57.4,ISC,Commerce,54.52,Management,Not Placed
+163,F,55.23,CBSE,64,CBSE,Science,60,Management,Placed
+164,M,48,Others,50,Others,Commerce,53,Management,Placed
+165,M,59,Others,64,ISC,Commerce,63,Management,Placed
+166,M,55,CBSE,70,CBSE,Commerce,56,Commerce,Not Placed
+167,M,75.66,ICSE,71.5,Others,Commerce,58.35,Commerce,Placed
+168,M,50,CBSE,57,CBSE,Commerce,58,Commerce,Placed
+169,M,59,CBSE,62,CBSE,Commerce,50,Commerce,Placed
+170,M,68,CBSE,75,Others,Commerce,61,Commerce,Placed
+171,M,40.53,Others,64.75,Others,Commerce,54.35,Commerce,Placed
+172,F,73,CBSE,65,CBSE,Science,74,Management,Placed
+173,F,78.5,ICSE,70.5,Others,Commerce,65,Commerce,Placed
+174,F,64,CBSE,70,CBSE,Commerce,59,Commerce,Placed
+175,M,59,ICSE,90,Others,Commerce,67,Computer Applications,Not Placed
+176,F,48,Others,62,Others,Commerce,62,Management,Not Placed
+177,M,58,CBSE,67,CBSE,Commerce,64,Commerce,Placed
+178,M,52,CBSE,55,CBSE,Science,68,Others,Placed
+179,F,74,Others,53,Others,Commerce,64,Management,Placed
+180,F,65,Others,68,Others,Commerce,55,Commerce,Placed
+181,,47,Others,52,Others,Science,60,Management,Placed
+182,M,70,CBSE,75,CBSE,Science,71,Science,Placed
+183,M,64,CBSE,55,Others,Science,59,Management,Placed
+184,M,64,ICSE,69,Others,Science,60,Engineering,Not Placed
+185,M,66.08,Others,53,Others,Science,56,Engineering,Placed
+186,F,77,ICSE,79,ISC,Commerce,86.7,Management,Placed
+187,M,79,Others,87,Others,Commerce,81,Management,Placed
+188,M,56,CBSE,79,CBSE,Commerce,65,Management,Placed
+189,M,59,ICSE,60,ISC,Commerce,62,Management,Placed
+190,M,53.3,CBSE,57.5,ISC,Commerce,59.7,Management,Placed
+191,M,55,ICSE,68,Others,Science,71,Science,Not Placed
+192,M,70,Others,68,Others,Commerce,68,Commerce,Placed
+193,F,64.5,CBSE,,ISC,Science,68,Computer Applications,Placed
+194,M,56,Others,59,Others,Science,65,Science,Not Placed
+195,M,50,Others,53,Others,Commerce,55,Management,Placed
+196,F,68.96,Others,76,Others,Commerce,63,Management,Placed
+197,M,60,CBSE,63,Others,Science,65,Management,Placed
+198,F,70,Others,55,Others,Science,62,Management,Placed
+199,M,48,Others,54,Others,Science,58,Management,Placed
+200,M,63.2,CBSE,67.8,CBSE,Commerce,62.6,Commerce,Placed
+201,M,74,Others,72,Others,Science,71,Science,Placed
+202,M,73,CBSE,77,CBSE,Science,76,Science,Placed
+203,,52.8,CBSE,63.4,CBSE,Commerce,58.6,Management,Placed
+204,M,63,Others,43,Others,Science,63,Management,Not Placed
+205,F,59,ICSE,62,Others,Science,65.6,Engineering,Placed
+206,M,71,ICSE,51,Others,Science,74,Computer Applications,Placed
+207,F,53.44,Others,70,Others,Arts,70,Management,Placed
+208,F,61.5,ICSE,61.8,ISC,Arts,65.3,Management,Placed
+209,M,69,Others,51,Others,Commerce,69,Management,Placed
+210,M,62,ICSE,66,CBSE,Science,60.33,Arts,Placed
+211,F,81,CBSE,68,CBSE,Commerce,69,Management,Placed
+212,M,56.5,Others,61,Others,Commerce,60,Management,Placed
+213,F,76,Others,56,Others,Science,73.5,Engineering,Placed
+214,F,67,Others,52,Others,Science,65,Management,Placed
+215,M,77.4,ICSE,68.4,ISC,Science,75.72,Science,Placed
+216,M,84.2,CBSE,67.8,CBSE,Science,55,Engineering,Placed
+217,M,54,Others,52,Others,Science,62,Science,Placed
+218,M,73.7,ICSE,86.7,Others,Commerce,60,Commerce,Placed
+219,M,65.92,Others,52.5,Others,Science,63.26,Management,Placed
+220,M,70,CBSE,73,Others,Commerce,64,Management,Not Placed
+221,M,73,CBSE,50,Others,Science,68,Computer Applications,Placed
+222,F,69.9,Others,49,Others,Science,56,Arts,Placed
+223,M,62,Others,63,Others,Commerce,58,Commerce,Placed
+224,F,87,ICSE,87,Others,Commerce,76,Management,Placed
+225,M,68,CBSE,59,Others,Commerce,75,Management,Placed
+226,F,80.32,Others,55,Others,Science,50,Engineering,Not Placed
+227,F,74.44,ICSE,89,Others,Commerce,70,Commerce,Placed
+228,F,56,ICSE,72,ISC,Commerce,72,Commerce,Placed
+229,F,67,CBSE,48,Others,Science,65,Management,Placed
+230,F,50,CBSE,64,CBSE,Arts,68,Management,Placed
+231,F,64,Others,,Others,Science,61,Engineering,Not Placed
+232,M,66.3,Others,83.5,Others,Science,70,Science,Placed
+233,M,62,Others,55,CBSE,Commerce,70,Commerce,Placed
+234,F,58.8,Others,45,Others,Science,57.7,Management,Placed
+235,F,79,Others,59,Others,Science,71,Engineering,Placed
+236,F,49.8,CBSE,51.2,CBSE,Commerce,46.22,Commerce,Not Placed
+237,M,74,CBSE,65,CBSE,Commerce,53,Management,Placed
+238,M,60,ICSE,59.5,ISC,Commerce,65.5,Commerce,Placed
+239,M,60,ICSE,59.8,Others,Commerce,65.5,Commerce,Placed
+240,M,74,CBSE,69,CBSE,Science,64,Management,Not Placed
+241,M,61,ICSE,50,ISC,Science,62,Science,Not Placed
+242,,82,ICSE,52,Others,Science,71.43,Science,Placed
+243,M,74.67,Others,59.89,Others,Commerce,66.67,Management,Placed
+244,M,54,Others,54,Others,Science,59,Management,Placed
+245,M,59,ICSE,57,ISC,Commerce,55,Commerce,Placed
+246,M,57,CBSE,62.4,CBSE,Commerce,48,Commerce,Placed
+247,M,67.7,Others,54,Others,Science,59,Management,Placed
+248,M,55,Others,53,Others,Arts,65,Management,Not Placed
+249,M,86.4,Others,60.66,Others,Science,67.25,Computer Applications,Placed
+250,M,54,ICSE,58,Others,Science,62,Management,Placed
+251,M,65,ICSE,71,ISC,Commerce,61,Commerce,Placed
+252,M,54,CBSE,59.2,CBSE,Commerce,49.2,Commerce,Not Placed
+253,F,74,ICSE,83,ISC,Arts,50,Arts,Placed
+254,M,47,CBSE,63,CBSE,Arts,57,Management,Placed
+255,M,58,Others,,Others,Commerce,49.85,Commerce,Placed
+256,M,62,Others,60,Others,Science,62,Computer Applications,Placed
+257,F,78.94,Others,77.83,Others,Commerce,77,Commerce,Placed
+258,M,54.07,Others,70.33,Others,Commerce,59,Commerce,Not Placed
+259,M,66,ICSE,50.66,CBSE,Science,52,Engineering,Placed
+260,M,60,CBSE,60,CBSE,Commerce,73,Commerce,Placed
+261,F,72.4,Others,55.5,CBSE,Science,82,Computer Applications,Placed
+262,M,80,Others,80,Others,Commerce,64,Management,Placed
+263,M,41,Others,51,Others,Science,61,Computer Applications,Placed
+264,M,45,CBSE,55,Others,Science,54,Management,Placed
+265,M,62,CBSE,64.3,CBSE,Commerce,66,Management,Placed
+266,M,56.57,Others,82.66,Others,Commerce,63.9,Commerce,Not Placed
+267,M,81.2,CBSE,64.4,CBSE,Science,59,Engineering,Placed
+268,M,61.5,ICSE,57.5,ISC,Commerce,54.9,Management,Placed
+269,M,75,Others,68,Others,Science,68,Computer Applications,Not Placed
+270,M,57,ICSE,52,Others,Commerce,62,Management,Placed
+271,M,84,CBSE,69,CBSE,Science,61,Engineering,Placed
+272,M,61,CBSE,52,Others,Science,50,Commerce,Not Placed
+273,M,55,Others,50,Others,Science,57,Management,Placed
+274,F,72,ICSE,57.8,Others,Science,49.8,Management,Placed
+275,M,60.6,Others,54,Others,Commerce,59.5,Management,Placed
+276,M,69.2,CBSE,84.6,Others,Commerce,75.25,Commerce,Placed
+277,M,63.33,Others,51,Others,Commerce,58.7,Commerce,Placed
+278,M,58,Others,62,Others,Science,58,Engineering,Placed
+279,F,62.16,ICSE,67.5,ISC,Commerce,57.35,Commerce,Placed
+280,M,46,Others,58,Others,Commerce,49,Commerce,Placed
+281,F,60,CBSE,44,Others,Science,67,Management,Placed
+282,M,59,ICSE,81,Others,Commerce,70,Commerce,Placed
+283,M,87.2,Others,67.5,Others,Science,60.31,Engineering,Placed
+284,F,68.3,ICSE,86.33,Others,Commerce,80,Management,Not Placed
+285,M,55.84,ICSE,54,ISC,Arts,57,Management,Not Placed
+286,M,54,Others,54,Others,Commerce,54,Management,Placed
+287,M,75.9,Others,70,Others,Science,73,Engineering,Not Placed
+288,M,77,CBSE,69.2,CBSE,Commerce,61,Commerce,Not Placed
+289,F,51,CBSE,56,CBSE,Commerce,62,Commerce,Not Placed
+290,M,64.96,Others,45.16,Others,Science,65.26,Computer Applications,Not Placed
+291,F,71.4,Others,75.2,Others,Commerce,64,Management,Not Placed
+292,M,75,CBSE,60,CBSE,Science,69,Computer Applications,Placed
+293,M,77,Others,77,Others,Commerce,70,Commerce,Placed
+294,M,60,CBSE,80,Others,Commerce,84,Commerce,Placed
+295,M,68,Others,50,Others,Commerce,50,Commerce,Placed
+296,M,78,Others,73,Others,Commerce,68,Commerce,Placed
+297,F,55,Others,57,Others,Science,57,Science,Placed
+298,F,67.67,ICSE,75,Others,Commerce,67.8,Commerce,Not Placed
+299,F,81,CBSE,81,CBSE,Commerce,82.2,Management,Placed
+300,M,70.24,Others,42.83,Others,Science,60.27,Engineering,Placed
